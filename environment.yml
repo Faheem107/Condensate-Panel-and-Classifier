@@ -1,0 +1,26 @@
+name: tracking
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - ipykernel
+  - matplotlib
+  - napari
+  - nd2
+  - networkx
+  - numpy
+  - openjdk=11
+  - pandas
+  - pyimagej
+  - python=3.12
+  - scikit-image
+  - scipy
+  - tifffile
+  - xarray
+  - ipympl
+  - ffmpeg
+  - jupyter_bokeh
+  - panel
+  - watchfiles
+  - hvplot
+prefix: E:\Programs\Anaconda3\envs\tracking
